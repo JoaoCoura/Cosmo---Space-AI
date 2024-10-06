@@ -19,4 +19,4 @@ The main goal of Cosmo - Space AI is to inspire curiosity and expand knowledge a
 Cosmo - Space AI was developed using JavaScript, CSS, and HTML for a user-friendly interface. The project was created in Visual Studio Code, which offered a suitable environment for coding and debugging. With these tools, Cosmo - Space AI encourages learning about the universe and helps users explore scientific concepts.
 
 ## Contact
-https://www.linkedin.com/in/jpbcoura/
+- [João Pedro Basso Coura](https://www.linkedin.com/in/jpbcoura/)
