@@ -1,4 +1,8 @@
-# Cosmo - Space AI
+# 2024 NASA Space Apps Challenge - Team Puquisper
+
+## The challenge
+### Chronicles of Exoplanet Exploration
+Embark on a thrilling journey to revolutionize exoplanet education! The discovery of exoplanets has redefined our understanding of planetary systems, expanding what we know about our place in the universe. From scorching gas giants to potentially habitable rocky worlds, these distant worlds offer a glimpse into the remarkable diversity of planetary configurations. Traditional educational materials about this topic may not be accessible to everyone, particularly those from underserved communities or with limited access to resources. Your challenge is to develop engaging and accessible learning materials that leverage creativity to enlighten students about the wonders of exoplanets.
 
 ## High-Level Summary
 Cosmo - Space AI is a virtual assistant designed to help students and the general public explore exoplanets and astronomy. Using natural language processing, the assistant provides clear answers to questions about exoplanets, celestial phenomena, and related scientific topics. It also features an interactive quiz to reinforce learning and check understanding.
@@ -14,3 +18,5 @@ Cosmo - Space AI offers several benefits for learning about astronomy. It makes 
 The main goal of Cosmo - Space AI is to inspire curiosity and expand knowledge about exoplanets and astronomy, especially among underserved communities. By making scientific information accessible and engaging, the project seeks to foster a love for science and exploration in future generations.
 Cosmo - Space AI was developed using JavaScript, CSS, and HTML for a user-friendly interface. The project was created in Visual Studio Code, which offered a suitable environment for coding and debugging. With these tools, Cosmo - Space AI encourages learning about the universe and helps users explore scientific concepts.
 
+## Contact
+https://www.linkedin.com/in/jpbcoura/
