@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask Cosmo</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="style.css">
+
+    
+</head>
+<body>
+
+    <header class="header">
+        <!--Header Greetings-->
+        <h2 class="title"> Hello there 🪐</h2>
+        <h4 class="subtitle">What can I teach you today?</h4>
+
+        <!--Suggestion List-->
+        <ul class="suggestion-list">
+            <li class="suggestion">
+                <h4 class="text">What classifies an exoplanet?</h4>
+                <span class="icon material-symbols-rounded">
+                    draw
+                    </span>
+            </li>
+            <li class="suggestion">
+                <h4 class="text">What is the biggest exoplanet discovered?</h4>
+                <span class="icon material-symbols-rounded">
+                    question_mark
+                    </span>
+            </li>
+            <li class="suggestion">
+                <h4 class="text">What classifies an habitable zone?</h4>
+                <span class="icon material-symbols-rounded">
+                    globe
+                    </span>
+            </li>
+            <li class="suggestion">
+                <h4 class="text">Make me a quiz about exoplanets</h4>
+                <span class="icon material-symbols-rounded">
+                    quiz
+                    </span>
+            </li>
+            
+        </ul>
+    </header>
+
+    <!-- Chat List / Container -->
+    <div class="chat-list"></div>
+
+    <!--Typing Area-->
+    <div class="typing-area">
+        <form action="#" class="typing-form">
+            <div class="input-wrapper">
+                <input type="text" placeholder="Enter a prompt here" 
+                class="typing-input" required>
+                <button class="icon material-symbols-rounded">
+                    send
+                </button>
+            </div>
+            <div class="action-buttons">
+                <span id ="toggle-theme-button" class="icon 
+                material-symbols-rounded">
+                    light_mode
+                </span>
+                <span id = "delete-chat-button" class="icon 
+                material-symbols-rounded">
+                    delete
+                </span>
+            </div>
+        </form>
+        <p class="disclaimer-text">
+            Cosmo may display inaccurate information, so double-check its responses on <a href="https://science.nasa.gov/exoplanets/"> NASA's official website </a>
+        </p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
